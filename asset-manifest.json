@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/InstagramClone/static/css/main.f1c7ec36.css",
+    "main.js": "/InstagramClone/static/js/main.186d5498.js",
+    "static/js/787.e870b0ba.chunk.js": "/InstagramClone/static/js/787.e870b0ba.chunk.js",
+    "static/media/bigscene.png": "/InstagramClone/static/media/bigscene.2da934e5827fe6d010d0.png",
+    "static/media/Instagram.otf": "/InstagramClone/static/media/Instagram.cba1cad2e754eca4f0dc.otf",
+    "static/media/online.png": "/InstagramClone/static/media/online.edf8e373dba6dd64a106.png",
+    "static/media/admin.svg": "/InstagramClone/static/media/admin.8ca7f30668ea2fb8197c4f9857df2c29.svg",
+    "static/media/share.svg": "/InstagramClone/static/media/share.1ab9703847ccff650f0b5fd39cc146d0.svg",
+    "static/media/plane.svg": "/InstagramClone/static/media/plane.e934e2cc1fb48075dab4d6763348965e.svg",
+    "static/media/emptypro.svg": "/InstagramClone/static/media/emptypro.050ed25bd184a2c0273e074c0fc7bedf.svg",
+    "static/media/camera.svg": "/InstagramClone/static/media/camera.5c356e6f3b5959a821187af8bf8a82eb.svg",
+    "static/media/comment.svg": "/InstagramClone/static/media/comment.af45e748ed44d4c9ad37ae3177bdb273.svg",
+    "static/media/Like.svg": "/InstagramClone/static/media/Like.a14077bdd13d5b986fa155f00354a2ae.svg",
+    "static/media/liked.svg": "/InstagramClone/static/media/liked.20fd5df6c9860ed190fc78e80ba46128.svg",
+    "static/media/doticon.svg": "/InstagramClone/static/media/doticon.88c4313c2ce40c8f8b419394046f29b1.svg",
+    "index.html": "/InstagramClone/index.html",
+    "main.f1c7ec36.css.map": "/InstagramClone/static/css/main.f1c7ec36.css.map",
+    "main.186d5498.js.map": "/InstagramClone/static/js/main.186d5498.js.map",
+    "787.e870b0ba.chunk.js.map": "/InstagramClone/static/js/787.e870b0ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c7ec36.css",
+    "static/js/main.186d5498.js"
+  ]
+}
