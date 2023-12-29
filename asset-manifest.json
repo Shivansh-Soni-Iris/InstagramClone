@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InstagramClone/static/css/main.f1c7ec36.css",
-    "main.js": "/InstagramClone/static/js/main.186d5498.js",
+    "main.css": "/InstagramClone/static/css/main.6f841b41.css",
+    "main.js": "/InstagramClone/static/js/main.56260e9e.js",
     "static/js/787.e870b0ba.chunk.js": "/InstagramClone/static/js/787.e870b0ba.chunk.js",
     "static/media/bigscene.png": "/InstagramClone/static/media/bigscene.2da934e5827fe6d010d0.png",
     "static/media/Instagram.otf": "/InstagramClone/static/media/Instagram.cba1cad2e754eca4f0dc.otf",
@@ -16,12 +16,13 @@
     "static/media/liked.svg": "/InstagramClone/static/media/liked.20fd5df6c9860ed190fc78e80ba46128.svg",
     "static/media/doticon.svg": "/InstagramClone/static/media/doticon.88c4313c2ce40c8f8b419394046f29b1.svg",
     "index.html": "/InstagramClone/index.html",
-    "main.f1c7ec36.css.map": "/InstagramClone/static/css/main.f1c7ec36.css.map",
-    "main.186d5498.js.map": "/InstagramClone/static/js/main.186d5498.js.map",
+    "static/media/home.svg": "/InstagramClone/static/media/home.61f74498f991a26a233a42ba41efe249.svg",
+    "main.6f841b41.css.map": "/InstagramClone/static/css/main.6f841b41.css.map",
+    "main.56260e9e.js.map": "/InstagramClone/static/js/main.56260e9e.js.map",
     "787.e870b0ba.chunk.js.map": "/InstagramClone/static/js/787.e870b0ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1c7ec36.css",
-    "static/js/main.186d5498.js"
+    "static/css/main.6f841b41.css",
+    "static/js/main.56260e9e.js"
   ]
 }
